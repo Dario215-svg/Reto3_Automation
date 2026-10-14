@@ -6,8 +6,8 @@
 ---
 
 ##  Objetivo
-1. Diseñar una **Matriz de Casos de Prueba a detalle** que documente los escenarios críticos de negocio: autenticación, carrito de compras, **registro completo de datos del usuario en Checkout**, validaciones de campos obligatorios, cálculo financiero e integridad de sesión.
-2. Desarrollar un script de automatización web utilizando **Selenium WebDriver** y **Python (Pytest)** que ejecute la matriz de pruebas de principio a fin.
+1. Diseñar una **Matriz de Casos de Prueba ** que documente los escenarios críticos de negocio: autenticación, carrito de compras, **registro completo de datos del usuario en Checkout**, validaciones de campos obligatorios, cálculo financiero e integridad de sesión.
+2. Desarrollar un script de automatización web utilizando **Selenium WebDriver** y **Python (Pytest)** que ejecute la matriz de pruebas.
 
 ---
 
